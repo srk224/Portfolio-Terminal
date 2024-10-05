@@ -1,21 +1,17 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
+  "readmeUrl": "https://github.com/srk224/srk224/blob/main/README.md",
+  "title": "Shahrukh",
+  "name": "Abdul Shahrukh Khan",
   "ascii": "liveterm",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "srk224",
+    "linkedin": "abdul-shahrukh-khan-8230281b7/"
   },
-  "email": "contact@email.com",
+  "email": "abdshahkhan224@gmail.com",
   "ps1_hostname": "liveterm",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
-  },
+  "repo": "https://github.com/srk224",
+  "resume_url": "https://drive.google.com/file/d/1gl1bzU4ghHKE9IpI-ptMq2Cjxl7mjd-b/view?usp=sharing",
   "colors": {
     "light": {
       "background": "#FBF1C9",
